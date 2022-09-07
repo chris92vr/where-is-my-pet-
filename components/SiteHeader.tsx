@@ -7,7 +7,7 @@ const SiteHeader = () => {
       <div className="wrapper">
         <figure className="logo">
           <Link href={`/`} passHref={true}>
-            📝 Notes
+            Where's my pet?
           </Link>
         </figure>
 
